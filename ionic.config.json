@@ -1,0 +1,12 @@
+{
+  "name": "mualdtee",
+  "integrations": {
+    "capacitor": {
+      "webDir": "dist",
+      "bundledWebRuntime": false,
+      "appName": "mualdtee",
+      "appId": "com.tariq.mualdtee"
+    }
+  },
+  "type": "custom"
+}
